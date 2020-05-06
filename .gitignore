@@ -8,3 +8,5 @@ build
 cmake_install.cmake
 install_manifest.txt
 xcode
+.vscode
+example/package-lock.json
